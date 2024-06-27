@@ -1,1 +1,1 @@
-Este es un archivo con texto, El conflicto se va a dar en esta linea!
+Intento 2 porque no se dio el error
