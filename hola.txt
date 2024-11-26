@@ -1,1 +1,2 @@
 Este es un archivo con texto, El conflicto se va a dar en esta linea!
+Holaaa soy una nueva rama dentro de un commit
