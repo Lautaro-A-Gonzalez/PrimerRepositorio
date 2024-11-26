@@ -1,4 +1,1 @@
 Este es un archivo con texto, el cual se va a mergear para provocar un conflicto.
-Nose que ondaaaaaa
-Ahora que paso
-La mejor amiga de Lauty Maia Palacio

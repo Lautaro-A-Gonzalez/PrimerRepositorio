@@ -1,0 +1,2 @@
+Este es un archivo de texto creado en la rama Merge-ok. Esta va a ser la prueba de merge sin conflictos
+    que ahora si va a tener conflictos 
